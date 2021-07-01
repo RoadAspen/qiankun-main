@@ -3,12 +3,12 @@
 # dependencies
 /node_modules
 
-./qiankun-react-1/node_modules
-./qiankun-react-1/yarn.lock
-./qiankun-react-1/package-lock.json
-./qiankun-react-1/node_modules
-./qiankun-vue-1/package-lock.json
-./qiankun-vue-1/yarn.lock
+/qiankun-react-1/node_modules
+/qiankun-react-1/yarn.lock
+/qiankun-react-1/package-lock.json
+/qiankun-react-1/node_modules
+/qiankun-vue-1/package-lock.json
+/qiankun-vue-1/yarn.lock
 /.pnp
 .pnp.js
 
